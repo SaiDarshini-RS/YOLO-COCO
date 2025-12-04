@@ -51,10 +51,10 @@ pip install streamlit opencv-python pillow numpy
 ```
 streamlit run app.py
 ```
-Output:
+### Output:
 <img width="1838" height="404" alt="image" src="https://github.com/user-attachments/assets/522ea0e2-50b2-4c9e-baf0-9766cc84bd1c" />
 <img width="1827" height="432" alt="image" src="https://github.com/user-attachments/assets/ba51b529-66a8-462d-95ef-62f25d8bc1b4" />
 <img width="1882" height="858" alt="image" src="https://github.com/user-attachments/assets/92f9a1b6-e3b9-41b1-b8d0-0662a64dd8bc" />
 
-Result:
+### Result:
 The YOLO model successfully detected objects in images, videos, and webcam input using the Streamlit application. The system produced clear bounding boxes and labels for various COCO classes and worked smoothly on my local machine using the Conda environment in VS Code. The app launched correctly with streamlit run app.py and displayed accurate results for all tested inputs.
